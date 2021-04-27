@@ -1,3 +1,42 @@
-h1 {
-    color: red;
+:root {
+    color-scheme: dark;
 }
+
+div p {
+    color: black;
+    padding-left: 4em;
+    padding-top: 0.5em;
+    font-size: 1em;
+}
+
+h1 {
+    color: black;
+    padding-left: 4em;
+    padding-top: 0.5em;
+}
+
+html {
+    background-color: #303845;
+    padding-top: 3em;
+}
+
+img {
+    width: 20%;
+}
+
+aside {
+    margin-left: 15%;
+    display: inline;
+
+}
+
+div {
+    float: right;
+    margin-right: 15%;
+    width: 47%;
+}
+
+.formation {
+    background-color: #DEDEDE;
+}
+
