@@ -2,17 +2,37 @@
     color-scheme: dark;
 }
 
+* {
+    font-family: Arial;
+}
+
 div p {
     color: black;
-    padding-left: 4em;
+    padding-left: 20%;
     padding-top: 0.5em;
     font-size: 1em;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.date {
+    padding: 2.5% 4% 4% 4%;
+    vertical-align: top;
 }
 
 h1 {
     color: black;
-    padding-left: 4em;
+    padding-left: 20%;
     padding-top: 0.5em;
+    padding-bottom: 0.1em;
+}
+
+hr {
+    margin-left: 4%;
+    margin-right: 4%;
+    border: none;
+    height: 2px;
+    background-color: #333;
 }
 
 html {
@@ -37,6 +57,17 @@ div {
 }
 
 .formation {
-    background-color: #DEDEDE;
+    background-color: lightgray;
+}
+
+.ecole {
+    padding: 0;
+    color: #008FF6;
+}
+
+.info {
+    padding: 0;
+    font-size: 0.8em;
+    color: #767676;
 }
 
