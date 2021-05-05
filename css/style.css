@@ -69,6 +69,10 @@ html {
   color: rgba(255, 255, 255, 0.7);
 }
 
+.icon-car {
+  color: #17e7a4;
+}
+
 a {
   color: #17e7a4;
   -webkit-transition: 0.5s;
