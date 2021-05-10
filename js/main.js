@@ -45,7 +45,7 @@
 			barColor: '#1E94D4',
 			trackColor:	"#000000",
 			size: 160,
-			animate: 1000
+			animate: 1500
 		});
 	};
 
