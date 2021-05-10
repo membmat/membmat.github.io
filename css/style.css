@@ -62,7 +62,7 @@ html {
 }
 
 .EMT, .Delemont, .Courtetelle {
-  color: #17e7a4;
+  color: #1E94D4;
 }
 
 .sous-EMT {
@@ -70,17 +70,17 @@ html {
 }
 
 .icon-car {
-  color: #17e7a4;
+  color: #1E94D4;
 }
 
 a {
-  color: #17e7a4;
+  color: #1E94D4;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #17e7a4;
+  color: #1772A4;
   outline: none;
 }
 
@@ -97,17 +97,17 @@ h1, h2, h3, h4, h5, h6 {
 
 ::-webkit-selection {
   color: #fff;
-  background: #17e7a4;
+  background: #1E94D4;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #17e7a4;
+  background: #1E94D4;
 }
 
 ::selection {
   color: #fff;
-  background: #17e7a4;
+  background: #1E94D4;
 }
 
 #fh5co-main {
@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   content: "";
   height: 0;
-  background: #17e7a4;
+  background: #1E94D4;
   z-index: -1;
   top: 0;
   left: 0;
@@ -281,7 +281,7 @@ figure {
 
 .fh5co-counter .fh5co-number {
   font-size: 100px;
-  color: #17e7a4;
+  color: #1E94D4;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -351,7 +351,7 @@ figure {
   }
 }
 .fh5co-social li a:hover {
-  color: #17e7a4;
+  color: #1E94D4;
 }
 .fh5co-social li a:hover, .fh5co-social li a:active, .fh5co-social li a:focus {
   outline: none;
@@ -370,7 +370,7 @@ figure {
   margin-top: 5px;
 }
 .fh5co-feature .fh5co-icon i {
-  color: #17e7a4;
+  color: #1E94D4;
   font-size: 40px;
 }
 .fh5co-feature .fh5co-text {
