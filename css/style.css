@@ -37,6 +37,28 @@ html {
   scrollbar-dark-shadow-color: #646464;
 }
 
+button {
+  background-color: #1E94D4;
+  border-radius: 15px;
+  padding: 1em;
+  margin-bottom: 15px;
+}
+
+a button {
+  color: white;
+  padding: 1em;
+  border-radius: 15px;
+  border: none;
+  transition: ease 0.5s;
+}
+
+a:hover button  {
+  color: white;
+  text-decoration: none;
+  transform: translateY(3px);
+  box-shadow: 0 4px #105275;
+}
+
 /* ================SCROLL BAR================ */
 ::-webkit-scrollbar { width: 8px; height: 3px;}
 ::-webkit-scrollbar-button {  background-color: #666; }
