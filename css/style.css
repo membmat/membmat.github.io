@@ -57,6 +57,15 @@ a:hover button  {
   text-decoration: none;
   transform: translateY(3px);
   box-shadow: 0 4px #105275;
+  cursor: pointer;
+}
+
+a button i {
+  display: none;
+}
+
+a button:hover i {
+  display: initial;
 }
 
 /* ================SCROLL BAR================ */
@@ -67,7 +76,6 @@ a:hover button  {
 ::-webkit-scrollbar-thumb { height: 50px; background-color: #666; border-radius: 3px;}
 ::-webkit-scrollbar-corner { background-color: #646464;}
 ::-webkit-resizer { background-color: #666;}
-
 
 
 @media screen and (max-width: 768px) {
