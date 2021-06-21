@@ -68,6 +68,11 @@ a button:hover i {
   display: initial;
 }
 
+.marked {
+  color: #1E94D4;
+  font-weight: bold;
+}
+
 /* ================SCROLL BAR================ */
 ::-webkit-scrollbar { width: 8px; height: 3px;}
 ::-webkit-scrollbar-button {  background-color: #666; }

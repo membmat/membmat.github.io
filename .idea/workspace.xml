@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="807f04da-9e0b-463b-bfaa-1a6669262e6a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,7 @@
       <workItem from="1621338950752" duration="1184000" />
       <workItem from="1621340340104" duration="1251000" />
       <workItem from="1623413150462" duration="198000" />
-      <workItem from="1624259331730" duration="35000" />
+      <workItem from="1624259331730" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout d'une feuille de style">
       <created>1619518595522</created>
